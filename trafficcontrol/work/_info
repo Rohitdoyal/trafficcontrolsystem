@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/electrical/DIGITALdesignCOURSE/FINALPROJECT/trafficcontrol
+vglbl
+Z1 !s110 1612105219
+!i10b 1
+!s100 6I9e6;d65PC]^07SzY4U[3
+IB:omVkBS@T@3DjHdLiDIE3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1238173732
+8C:/Xilinx/11.1/ISE/verilog/src/glbl.v
+FC:/Xilinx/11.1/ISE/verilog/src/glbl.v
+L0 5
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1612105219.000000
+!s107 C:/Xilinx/11.1/ISE/verilog/src/glbl.v|
+!s90 -reportprogress|300|+acc|C:/Xilinx/11.1/ISE/verilog/src/glbl.v|
+!s101 -O0
+!i113 1
+Z5 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtimerr
+R1
+!i10b 1
+!s100 bA8UXXNU6d^g=VIzLi8TU3
+IT>I4BUF_b:T4]=PWzK30V1
+R2
+R0
+w1612105214
+8timer.v
+Ftimer.v
+L0 25
+R3
+r1
+!s85 0
+31
+R4
+!s107 timer.v|
+!s90 -reportprogress|300|+acc|timer.v|
+!s101 -O0
+!i113 1
+R5
+vtraffic_control
+R1
+!i10b 1
+!s100 9gddn^3TIC_c:57oBz7ng2
+I9AEBl`7LWjHHZ>[i:k4Gb0
+R2
+R0
+w1612105194
+8trafficcontrol.v
+Ftrafficcontrol.v
+L0 21
+R3
+r1
+!s85 0
+31
+R4
+!s107 trafficcontrol.v|
+!s90 -reportprogress|300|+acc|trafficcontrol.v|
+!s101 -O0
+!i113 1
+R5

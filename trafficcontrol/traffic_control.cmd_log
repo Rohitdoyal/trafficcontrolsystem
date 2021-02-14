@@ -1,0 +1,1 @@
+xst -ise "E:/electrical/DIGITALdesignCOURSE/FINALPROJECT/trafficcontrol/trafficcontrol.ise" -intstyle ise -ifn "E:/electrical/DIGITALdesignCOURSE/FINALPROJECT/trafficcontrol/traffic_control.xst" -ofn "E:/electrical/DIGITALdesignCOURSE/FINALPROJECT/trafficcontrol/traffic_control.syr" 

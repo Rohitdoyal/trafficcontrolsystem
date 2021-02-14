@@ -1,0 +1,5 @@
+set -tmpdir "E:/electrical/DIGITALdesignCOURSE/FINALPROJECT/trafficcontrol/xst/projnav.tmp"
+set -xsthdpdir "E:/electrical/DIGITALdesignCOURSE/FINALPROJECT/trafficcontrol/xst"
+elaborate
+-ifn trafficcontrol.prj
+-ifmt mixed
